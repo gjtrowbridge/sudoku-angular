@@ -1,0 +1,22 @@
+{
+  "name": "sudoku-angular",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gjtrowbridge/sudoku-angular",
+  "description": "simple sudoku implemented in angular",
+  "keywords": [
+    "sudoku",
+    "angular"
+  ],
+  "authors": [
+    "Greg Trowbridge"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
